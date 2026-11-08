@@ -7,7 +7,11 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [Hujan (Tere Liye)](ebook/Hujan (Tere Liye).pdf) – Tere Liye (1979-)
 4. [Animal Farm (George Orwell)](ebook/Animal Farm (George Orwell).pdf) – George Orwell (1979-)
 5. [Don Quixote (Miguel de Cervantes Saavedra)](ebook/Don Quixote (Miguel de Cervantes Saavedra).pdf) – George Orwell (1979-)
-7. [modul literinfo](ebook/modul literinfo.pdf) – Nidhom (2025-)
-8. Contoh buku lain
+8. [Laut Bercerita (Leila S. Chudori)](ebook/Don Quixote (Laut Bercerita (Leila S. Chudori)).pdf) – Leila S. Chudori (1962-)
+9. [Tan Malaka - MADILOG (Rowland Book Collections)](ebook/Don Quixote (Tan Malaka - MADILOG (Rowland Book Collections).pdf) – Rowland Book Colledtion (1934-)
+10. [Atomic Habits Tiny Changes, Remarkable Results (James Clear)](ebook/Atomic Habits Tiny Changes, Remarkable Results (James Clear).pdf) – James Clear (1986-)
+11. [Wuthering Heights (Emily Brontë)](ebook/Wuthering Heights (Emily Brontë).pdf) – Emily Brontë (1818-1846)
+12. [modul literinfo](ebook/modul literinfo.pdf) – Nidhom (2025-)
+13. Contoh buku lain
 ---
 **Powered by GitHub Pages**
