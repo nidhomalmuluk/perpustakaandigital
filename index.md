@@ -11,7 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 4. [Animal Farm (George Orwell)](ebook/Animal Farm (George Orwell).pdf) – George Orwell (1945)
 5. [Don Quixote (Miguel de Cervantes Saavedra)](ebook/Don Quixote (Miguel de Cervantes Saavedra).pdf) – George Orwell (1605)
 8. [Laut Bercerita (Leila S. Chudori)](ebook/Laut Bercerita (Leila S. Chudori).pdf) – Leila S. Chudori (2017)
-9. [Tan Malaka - MADILOG (Rowland Book Collections)](ebook/(Tan Malaka - MADILOG (Rowland Book Collections).pdf) – Rowland Book Collections (1951)
+9. [Meditations (Marcus Aurelius)](ebook/Meditations (Marcus Aurelius).pdf) – Marcus Aurelius (2020)
 10. [Atomic Habits Tiny Changes, Remarkable Results (James Clear)](ebook/Atomic Habits Tiny Changes, Remarkable Results (James Clear).pdf) – James Clear (2018)
 12. [Wuthering Heights (Emily Brontë)](ebook/Wuthering Heights (Emily Brontë).pdf) – Emily Brontë (1847)
 13. [modul literinfo](ebook/modul literinfo.pdf) – Nidhom (2025)
