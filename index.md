@@ -15,7 +15,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Atomic Habits Tiny Changes, Remarkable Results (James Clear)](ebook/Atomic Habits Tiny Changes, Remarkable Results (James Clear).pdf) – James Clear (2018)
 12. [Wuthering Heights (Emily Brontë)](ebook/Wuthering Heights (Emily Brontë).pdf) – Emily Brontë (1847)
 13. [modul literinfo](ebook/modul literinfo.pdf) – Nidhom (2025)
-14. [Ringkasan UGC PATI](ebook/Ringkasan UGC PATI.pdf) – M. Nidhom Al-Muluk (2026)
-15. Contoh buku lain
+14. [Seporsi Mie Ayam Sebelum Mati (Brian Khrisna)](ebook/Seporsi Mie Ayam Sebelum Mati (Brian Khrisna).pdf) – Brian Khrisna (2025)
+15. [Ringkasan UGC PATI](ebook/Ringkasan UGC PATI.pdf) – M. Nidhom Al-Muluk (2026)
+16. Contoh buku lain
 ---
 **Powered by GitHub Pages**
